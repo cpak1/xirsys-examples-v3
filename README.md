@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/xirsys/xirsys-examples-v3) 
+
 # Xirsys WebRTC Examples for V3 API
 
 These are examples used by the Xirsys team to teach and test features of the API and WebRTC.  Feel free to use modify and improve the examples as needed.  Any public contributions, suggestions or modifications which can help anyone else is appreciated.  Please contact us at **support@xirsys.com** to submit.
